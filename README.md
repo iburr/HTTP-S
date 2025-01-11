@@ -1,6 +1,6 @@
 # Curated Python Scripts for HTTP POST and GET Requests
 
-## I made these scripts to get a better understanding of what's going on under the hood of HTTP connections, I hope it can help you as well for those who are reading this. 
+I made these scripts to get a better understanding of what's going on under the hood of HTTP connections, I hope it can help you as well for those who are reading this. 
 
 ## Overview
 This repository contains a collection of Python scripts designed for handling HTTP POST and GET requests. These scripts are ideal for web interaction, API interaction, and automation of tasks. They are modular, reusable, and optimized for efficient data handling.
