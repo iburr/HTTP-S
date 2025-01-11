@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains a collection of Python scripts designed for handling HTTP POST and GET requests. These scripts are ideal for web interaction, API interaction, and automation of tasks. They are modular, reusable, and optimized for efficient data handling.
+** Made for Educational purposes. **
 
 ## Features
 - **HTTP Request Automation**: Easily send POST and GET requests with customizable payloads, headers, and parameters.
@@ -16,6 +17,7 @@ This repository contains a collection of Python scripts designed for handling HT
     - https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
     - https://en.wikipedia.org/wiki/Method_overriding
     - https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE
+    - https://requests.readthedocs.io/en/latest/
 
 ## Using the scripts
 - Scripts are to be used for legal and safe purposes only:
